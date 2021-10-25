@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Pages/Appbar.css"],"names":[],"mappings":"AAAA,QACA,wBAAkC,CAElC,YAAa,CACb,YACA","file":"main.2960c61d.chunk.css","sourcesContent":[".Appbar{\nbackground-color:rgb(106, 90, 205);\n\nwidth: 1050px;\nheight: 200px;\n}"]}
